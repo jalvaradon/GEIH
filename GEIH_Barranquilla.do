@@ -550,4 +550,5 @@ tabstat FEX if (area==`x' & p6220==`i'), by (desempleo) sta (sum) format (%15.0f
 }
 }
 *
+***
 
